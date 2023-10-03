@@ -1,0 +1,7 @@
+django version=== 4.2.5
+
+virtual environment:
+asm/Scripts/activate
+
+project: amsproject
+app: crudapp
