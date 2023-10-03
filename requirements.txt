@@ -1,4 +1,5 @@
 django version=== 4.2.5
+python version === 3.11.2
 
 virtual environment:
 asm/Scripts/activate
